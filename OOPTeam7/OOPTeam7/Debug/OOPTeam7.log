@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\haziq\source\repos\OOPTeam7\OOPTeam7\main.cpp(212,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\haziq\source\repos\OOPTeam7\OOPTeam7\main.cpp(293,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\haziq\source\repos\OOPTeam7\OOPTeam7\main.cpp(295,21): warning C4018: '<': signed/unsigned mismatch
+  OOPTeam7.vcxproj -> C:\Users\haziq\source\repos\OOPTeam7\Debug\OOPTeam7.exe
